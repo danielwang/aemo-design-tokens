@@ -1,0 +1,481 @@
+{
+    "UI": {
+      "Primary": {
+        "Purple - 700": {
+          "value": "#360f3c",
+          "type": "color"
+        },
+        "Purple - 600": {
+          "value": "#502252",
+          "type": "color"
+        },
+        "Purple - 500": {
+          "value": "#702f73",
+          "type": "color"
+        },
+        "Purple - 400": {
+          "value": "#b056bc",
+          "type": "color"
+        },
+        "Purple - 300": {
+          "value": "#cc8acf",
+          "type": "color"
+        },
+        "Purple - 200": {
+          "value": "#e8cbea",
+          "type": "color"
+        },
+        "Purple - 100": {
+          "value": "#ede9ed",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Red 500": {
+          "value": "#db3259",
+          "type": "color"
+        },
+        "Red 100": {
+          "value": "#feefef",
+          "type": "color"
+        },
+        "Green 500": {
+          "value": "#467822",
+          "type": "color"
+        },
+        "Green 100": {
+          "value": "#ecf7e3",
+          "type": "color"
+        },
+        "Blue 500": {
+          "value": "#5666bc",
+          "type": "color"
+        },
+        "Blue 100": {
+          "value": "#f4fbfc",
+          "type": "color"
+        },
+        "Orange 500": {
+          "value": "#fe7355",
+          "type": "color"
+        },
+        "Orange 100": {
+          "value": "#fff4ec",
+          "type": "color"
+        },
+        "Yellow": {
+          "value": "#ffd565",
+          "type": "color"
+        },
+        "Aqua": {
+          "value": "#85cee2",
+          "type": "color"
+        },
+        "Blue Violet": {
+          "value": "#777da7",
+          "type": "color"
+        },
+        "Teal": {
+          "value": "#34b9b3",
+          "type": "color"
+        }
+      },
+      "Tertiary": {
+        "Black": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "Slate - 700": {
+          "value": "#434b58",
+          "type": "color"
+        },
+        "Slate - 500": {
+          "value": "#6b778c",
+          "type": "color"
+        },
+        "Slate - 300": {
+          "value": "#9ea6b5",
+          "type": "color",
+          "description": "Border"
+        },
+        "Slate - 100": {
+          "value": "#d2d6dd",
+          "type": "color",
+          "description": "Disable"
+        },
+        "Slate - 50": {
+          "value": "#e7edf9",
+          "type": "color"
+        },
+        "Link": {
+          "value": "#3379bf",
+          "type": "color"
+        },
+        "White": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "Fuel": {
+      "Coal": {
+        "value": "#333536",
+        "type": "color"
+      },
+      "Brown Coal": {
+        "value": "#97785c",
+        "type": "color"
+      },
+      "Distilate": {
+        "value": "#fe5f55",
+        "type": "color"
+      },
+      "Biomass": {
+        "value": "#a82140",
+        "type": "color"
+      },
+      "Solar": {
+        "value": "#ffd565",
+        "type": "color"
+      },
+      "Wind": {
+        "value": "#a1d978",
+        "type": "color"
+      },
+      "Hydro": {
+        "value": "#ade0ee",
+        "type": "color"
+      },
+      "Renewables": {
+        "value": "#e1ee8e",
+        "type": "color"
+      },
+      "Demand Side": {
+        "value": "#5666bc",
+        "type": "color"
+      },
+      "Battery": {
+        "value": "#b056bc",
+        "type": "color"
+      },
+      "Landfill Gas": {
+        "value": "#5cdcd6",
+        "type": "color"
+      },
+      "SAT PV or Solar Thermal": {
+        "value": "#ffb546",
+        "type": "color"
+      },
+      "Battery Load": {
+        "value": "#d77ee2",
+        "type": "color"
+      },
+      "VPP Battery Load": {
+        "value": "#e2a8ea",
+        "type": "color"
+      },
+      "Main": {
+        "value": "#a096a0",
+        "type": "color"
+      },
+      "Load": {
+        "value": "#d4dadd",
+        "type": "color"
+      }
+    },
+    "Shadow LG": {
+      "value": {
+        "color": "#00000040",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 4,
+        "blur": 4,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Shadow MD": {
+      "value": {
+        "color": "#0000002e",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 4,
+        "blur": 4,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Shadow SM": {
+      "value": {
+        "color": "#0000001a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 1,
+        "blur": 4,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "fontFamilies": {
+      "avenir-lt-std": {
+        "value": "Avenir LT Std",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "24",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "avenir-lt-std-0": {
+        "value": "95 Black",
+        "type": "fontWeights"
+      },
+      "avenir-lt-std-1": {
+        "value": "45 Book",
+        "type": "fontWeights"
+      },
+      "avenir-lt-std-2": {
+        "value": "85 Heavy",
+        "type": "fontWeights"
+      },
+      "avenir-lt-std-3": {
+        "value": "55 Roman",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "56",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Heading": {
+      "1": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.5",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "2": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.4",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "3": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.3",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "4": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "5": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
+    },
+    "Text": {
+      "Lead": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-1",
+          "lineHeight": "$lineHeights.1",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "16px": {
+        "bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.avenir-lt-std",
+            "fontWeight": "$fontWeights.avenir-lt-std-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "normal": {
+          "value": {
+            "fontFamily": "$fontFamilies.avenir-lt-std",
+            "fontWeight": "$fontWeights.avenir-lt-std-3",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "14px": {
+        "normal": {
+          "value": {
+            "fontFamily": "$fontFamilies.avenir-lt-std",
+            "fontWeight": "$fontWeights.avenir-lt-std-3",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.avenir-lt-std",
+            "fontWeight": "$fontWeights.avenir-lt-std-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Text Style": {
+      "delete": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-3",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.line-through"
+        },
+        "type": "typography"
+      },
+      "underline": {
+        "value": {
+          "fontFamily": "$fontFamilies.avenir-lt-std",
+          "fontWeight": "$fontWeights.avenir-lt-std-3",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.underline"
+        },
+        "type": "typography"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "line-through": {
+        "value": "line-through",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      }
+    }
+  }
