@@ -1,6 +1,6 @@
 {
-    "name": "design-token",
-    "version": "1.0.0",
+    "name": "@danielwang/aemo-design-tokens",
+    "version": "0.1.0",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -8,15 +8,18 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/danielwang/design-tokens.git"
+      "url": "git://github.com/danielwang/aemo-design-tokens.git"
     },
     "author": "Daniel Wang",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/danielwang/design-tokens/issues"
+      "url": "https://github.com/danielwang/aemo-design-tokens/issues"
     },
-    "homepage": "https://github.com/danielwang/design-tokens",
+    "homepage": "https://github.com/danielwang/aemo-design-tokens",
     "dependencies": {
       "style-dictionary": "^3.1.0"
+    },
+    "publishConfig": {
+        "registry":"https://npm.pkg.github.com"
     }
   }
