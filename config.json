@@ -3,14 +3,35 @@
   "platforms": {
     "scss": {
       "transformGroup": "scss",
+      "prefix": "gel",
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
       "buildPath": "build/scss/",
       "files": [{
         "destination": "_variables.scss",
         "format": "scss/variables"
       }]
     },
+    "css": {
+      "transformGroup": "css",
+      "prefix": "gel",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
+      }]
+    },
+    "less": {
+      "transformGroup": "less",
+      "prefix": "gel",
+      "buildPath": "build/less/",
+      "files": [{
+        "destination": "_variables.less",
+        "format": "less/variables"
+      }]
+    },
     "android": {
       "transformGroup": "android",
+      "prefix": "gel",
       "buildPath": "build/android/",
       "files": [{
         "destination": "font_dimens.xml",
@@ -22,6 +43,7 @@
     },
     "compose": {
       "transformGroup": "compose",
+      "prefix": "gel",
       "buildPath": "build/compose/",
       "files": [{
         "destination": "StyleDictionaryColor.kt",
@@ -48,6 +70,7 @@
     },
     "ios": {
       "transformGroup": "ios",
+      "prefix": "gel",
       "buildPath": "build/ios/",
       "files": [{
         "destination": "StyleDictionaryColor.h",
@@ -93,6 +116,7 @@
     },
     "ios-swift": {
       "transformGroup": "ios-swift",
+      "prefix": "gel",
       "buildPath": "build/ios-swift/",
       "files": [{
         "destination": "StyleDictionary.swift",

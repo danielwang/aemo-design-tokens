@@ -2,12 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 08 Feb 2022 03:55:37 GMT
+  Generated on Tue, 08 Feb 2022 05:40:32 GMT
 -->
 <resources>
-  <dimen name="size_font_small">12.00sp</dimen><!-- the small size of the font -->
-  <dimen name="size_font_medium">16.00sp</dimen><!-- the medium size of the font -->
-  <dimen name="size_font_large">32.00sp</dimen><!-- the large size of the font -->
-  <dimen name="size_font_base">16.00sp</dimen><!-- the base size of the font -->
+  <dimen name="gel_size_font_small">12.00sp</dimen><!-- the small size of the font -->
+  <dimen name="gel_size_font_medium">16.00sp</dimen><!-- the medium size of the font -->
+  <dimen name="gel_size_font_large">32.00sp</dimen><!-- the large size of the font -->
+  <dimen name="gel_size_font_base">16.00sp</dimen><!-- the base size of the font -->
   
 </resources>

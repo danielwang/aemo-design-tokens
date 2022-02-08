@@ -1,0 +1,22 @@
+{
+    "name": "design-token",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "style-dictionary build"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/danielwang/design-tokens.git"
+    },
+    "author": "Daniel Wang",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/danielwang/design-tokens/issues"
+    },
+    "homepage": "https://github.com/danielwang/design-tokens",
+    "dependencies": {
+      "style-dictionary": "^3.1.0"
+    }
+  }

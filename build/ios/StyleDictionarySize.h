@@ -3,13 +3,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 08 Feb 2022 03:55:37 GMT
+// Generated on Tue, 08 Feb 2022 05:40:32 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const SizeFontSmall;
-extern float const SizeFontMedium;
-extern float const SizeFontLarge;
-extern float const SizeFontBase;
+extern float const GelSizeFontSmall;
+extern float const GelSizeFontMedium;
+extern float const GelSizeFontLarge;
+extern float const GelSizeFontBase;
