@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[36],{6379:function(s){s.exports=JSON.parse('{"allTagsPath":"/aemo-design-tokens/blog/tags","slug":"/aemo-design-tokens/blog/tags/docusaurus","name":"docusaurus","count":3,"permalink":"/aemo-design-tokens/blog/tags/docusaurus"}')}}]);

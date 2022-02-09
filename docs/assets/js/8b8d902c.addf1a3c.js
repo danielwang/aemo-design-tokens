@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_tokens_documentation=self.webpackChunkdesign_tokens_documentation||[]).push([[815],{8585:function(e){e.exports=JSON.parse('{"allTagsPath":"/aemo-design-tokens/blog/tags","slug":"/aemo-design-tokens/blog/tags/hello","name":"hello","count":2,"permalink":"/aemo-design-tokens/blog/tags/hello"}')}}]);
