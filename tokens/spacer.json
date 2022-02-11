@@ -1,0 +1,36 @@
+{
+  "Spacer": {
+    "0": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "1": {
+      "value": "0.25rem",
+      "type": "spacing"
+    },
+    "2": {
+      "value": "0.5rem",
+      "type": "spacing"
+    },
+    "3": {
+      "value": "1rem",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "1.5rem",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "2rem",
+      "type": "spacing"
+    },
+    "6": {
+      "value": "4rem",
+      "type": "spacing"
+    },
+    "7": {
+      "value": "8rem",
+      "type": "spacing"
+    }
+  }
+}

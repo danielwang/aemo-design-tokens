@@ -2,59 +2,8 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 08 Feb 2022 05:40:32 GMT
+  Generated on Fri, 11 Feb 2022 03:17:06 GMT
 -->
 <resources>
-  <color name="gel_color_ui_primary_purple_700">#ff360f3c</color>
-  <color name="gel_color_ui_primary_purple_600">#ff502252</color>
-  <color name="gel_color_ui_primary_purple_500">#ff702f73</color>
-  <color name="gel_color_ui_primary_purple_400">#ffb056bc</color>
-  <color name="gel_color_ui_primary_purple_300">#ffcc8acf</color>
-  <color name="gel_color_ui_primary_purple_200">#ffe8cbea</color>
-  <color name="gel_color_ui_primary_purple_100">#ffede9ed</color>
-  <color name="gel_color_ui_secondary_red_500">#ffdb3259</color>
-  <color name="gel_color_ui_secondary_red_100">#fffeefef</color>
-  <color name="gel_color_ui_secondary_green_500">#ff467822</color>
-  <color name="gel_color_ui_secondary_green_100">#ffecf7e3</color>
-  <color name="gel_color_ui_secondary_blue_500">#ff5666bc</color>
-  <color name="gel_color_ui_secondary_blue_100">#fff4fbfc</color>
-  <color name="gel_color_ui_secondary_orange_500">#fffe7355</color>
-  <color name="gel_color_ui_secondary_orange_100">#fffff4ec</color>
-  <color name="gel_color_ui_secondary_yellow">#ffffd565</color>
-  <color name="gel_color_ui_secondary_aqua">#ff85cee2</color>
-  <color name="gel_color_ui_secondary_blue_violet">#ff777da7</color>
-  <color name="gel_color_ui_secondary_teal">#ff34b9b3</color>
-  <color name="gel_color_ui_tertiary_black">#ff000000</color>
-  <color name="gel_color_ui_tertiary_slate_700">#ff434b58</color>
-  <color name="gel_color_ui_tertiary_slate_500">#ff6b778c</color>
-  <color name="gel_color_ui_tertiary_slate_300">#ff9ea6b5</color>
-  <color name="gel_color_ui_tertiary_slate_100">#ffd2d6dd</color>
-  <color name="gel_color_ui_tertiary_slate_50">#ffe7edf9</color>
-  <color name="gel_color_ui_tertiary_link">#ff3379bf</color>
-  <color name="gel_color_ui_tertiary_white">#ffffffff</color>
-  <color name="gel_color_fuel_coal">#ff333536</color>
-  <color name="gel_color_fuel_brown_coal">#ff97785c</color>
-  <color name="gel_color_fuel_distilate">#fffe5f55</color>
-  <color name="gel_color_fuel_biomass">#ffa82140</color>
-  <color name="gel_color_fuel_solar">#ffffd565</color>
-  <color name="gel_color_fuel_wind">#ffa1d978</color>
-  <color name="gel_color_fuel_hydro">#ffade0ee</color>
-  <color name="gel_color_fuel_renewables">#ffe1ee8e</color>
-  <color name="gel_color_fuel_demand_side">#ff5666bc</color>
-  <color name="gel_color_fuel_battery">#ffb056bc</color>
-  <color name="gel_color_fuel_landfill_gas">#ff5cdcd6</color>
-  <color name="gel_color_fuel_sat_pv_or_solar_thermal">#ffffb546</color>
-  <color name="gel_color_fuel_battery_load">#ffd77ee2</color>
-  <color name="gel_color_fuel_vpp_battery_load">#ffe2a8ea</color>
-  <color name="gel_color_fuel_main">#ffa096a0</color>
-  <color name="gel_color_fuel_load">#ffd4dadd</color>
-  <color name="gel_color_base_gray_light">#ffcccccc</color>
-  <color name="gel_color_base_gray_medium">#ff999999</color>
-  <color name="gel_color_base_gray_dark">#ff111111</color>
-  <color name="gel_color_base_red">#ffff0000</color>
-  <color name="gel_color_base_green">#ff00ff00</color>
-  <color name="gel_color_font_base">#ffff0000</color>
-  <color name="gel_color_font_secondary">#ff00ff00</color>
-  <color name="gel_color_font_tertiary">#ffcccccc</color>
   
 </resources>

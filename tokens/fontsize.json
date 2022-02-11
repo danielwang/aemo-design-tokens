@@ -1,0 +1,44 @@
+{
+  "FontSize": {
+    "heading-1": {
+      "value": "3.5rem",
+      "type": "fontSizes"
+    },
+    "heading-2": {
+      "value": "2rem",
+      "type": "fontSizes"
+    },
+    "heading-3": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "heading-4": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "heading-5": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "text-lg": {
+      "value": "1.125rem",
+      "type": "fontSizes"
+    },
+    "text-default": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "text-sm": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "text-xl": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "text-xs": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    }
+  }
+}

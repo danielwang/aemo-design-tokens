@@ -1,0 +1,28 @@
+{
+  "FontFamily": {
+    "Black": {
+      "value": "\"AvenirLT-Black\"",
+      "type": "fontFamilies"
+    },
+    "Heavy": {
+      "value": "\"AvenirLT-Heavy\"",
+      "type": "fontFamilies"
+    },
+    "Medium": {
+      "value": "\"AvenirLT-Medium\"",
+      "type": "fontFamilies"
+    },
+    "Roman": {
+      "value": "\"AvenirLT-Roman\"",
+      "type": "fontFamilies"
+    },
+    "Book": {
+      "value": "\"AvenirLT-Book\"",
+      "type": "fontFamilies"
+    },
+    "Weight": {
+      "value": "normal",
+      "type": "fontWeights"
+    }
+  }
+}
