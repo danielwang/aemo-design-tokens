@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sun, 13 Feb 2022 23:13:31 GMT
+-->
+<resources>
+  <string name="gel_color_primary_purple_700">#360f3c</string>
+  <string name="gel_color_primary_purple_600">#502252</string>
+  <string name="gel_color_primary_purple_500">#702f73</string>
+  <string name="gel_color_primary_purple_400">#b056bc</string>
+  <string name="gel_color_primary_purple_300">#cc8acf</string>
+  <string name="gel_color_primary_purple_200">#e8cbea</string>
+  <string name="gel_color_primary_purple_100">#ede9ed</string>
+  <string name="gel_color_secondary_red_500">#db3259</string>
+  <string name="gel_color_secondary_red_100">#feefef</string>
+  <string name="gel_color_secondary_green_500">#467822</string>
+  <string name="gel_color_secondary_green_100">#ecf7e3</string>
+  <string name="gel_color_secondary_blue_500">#5666bc</string>
+  <string name="gel_color_secondary_blue_100">#f4fbfc</string>
+  <string name="gel_color_secondary_orange_500">#fe7355</string>
+  <string name="gel_color_secondary_orange_100">#fff4ec</string>
+  <string name="gel_color_secondary_yellow">#ffd565</string>
+  <string name="gel_color_secondary_aqua">#85cee2</string>
+  <string name="gel_color_secondary_blue_violet">#777da7</string>
+  <string name="gel_color_secondary_teal">#34b9b3</string>
+  <string name="gel_color_tertiary_black">#000000</string>
+  <string name="gel_color_tertiary_slate_700">#434b58</string>
+  <string name="gel_color_tertiary_slate_500">#6b778c</string>
+  <string name="gel_color_tertiary_slate_300">#9ea6b5</string>
+  <string name="gel_color_tertiary_slate_100">#d2d6dd</string>
+  <string name="gel_color_tertiary_slate_50">#e7edf9</string>
+  <string name="gel_color_tertiary_link">#3379bf</string>
+  <string name="gel_color_tertiary_white">#ffffff</string>
+  <string name="gel_color_fuel_coal">#333536</string>
+  <string name="gel_color_fuel_brown_coal">#97785c</string>
+  <string name="gel_color_fuel_distilate">#fe5f55</string>
+  <string name="gel_color_fuel_biomass">#a82140</string>
+  <string name="gel_color_fuel_solar">#ffd565</string>
+  <string name="gel_color_fuel_wind">#a1d978</string>
+  <string name="gel_color_fuel_hydro">#ade0ee</string>
+  <string name="gel_color_fuel_renewables">#e1ee8e</string>
+  <string name="gel_color_fuel_demand_side">#5666bc</string>
+  <string name="gel_color_fuel_battery">#b056bc</string>
+  <string name="gel_color_fuel_landfill_gas">#5cdcd6</string>
+  <string name="gel_color_fuel_sat_pv_or_solar_thermal">#ffb546</string>
+  <string name="gel_color_fuel_battery_load">#d77ee2</string>
+  <string name="gel_color_fuel_vpp_battery_load">#e2a8ea</string>
+  <string name="gel_color_fuel_main">#a096a0</string>
+  <string name="gel_color_fuel_load">#d4dadd</string>
+  <string name="gel_font_family_black">"AvenirLT-Black"</string>
+  <string name="gel_font_family_heavy">"AvenirLT-Heavy"</string>
+  <string name="gel_font_family_medium">"AvenirLT-Medium"</string>
+  <string name="gel_font_family_roman">"AvenirLT-Roman"</string>
+  <string name="gel_font_family_book">"AvenirLT-Book"</string>
+  <string name="gel_font_family_weight">normal</string>
+  <string name="gel_font_size_heading_1">3.5rem</string>
+  <string name="gel_font_size_heading_2">2rem</string>
+  <string name="gel_font_size_heading_3">1.5rem</string>
+  <string name="gel_font_size_heading_4">1.25rem</string>
+  <string name="gel_font_size_heading_5">1rem</string>
+  <string name="gel_font_size_text_lg">1.125rem</string>
+  <string name="gel_font_size_text_default">1rem</string>
+  <string name="gel_font_size_text_sm">0.875rem</string>
+  <string name="gel_font_size_text_xl">1.25rem</string>
+  <string name="gel_font_size_text_xs">0.75rem</string>
+  <string name="gel_spacer_0">0</string>
+  <string name="gel_spacer_1">0.25rem</string>
+  <string name="gel_spacer_2">0.5rem</string>
+  <string name="gel_spacer_3">1rem</string>
+  <string name="gel_spacer_4">1.5rem</string>
+  <string name="gel_spacer_5">2rem</string>
+  <string name="gel_spacer_6">4rem</string>
+  <string name="gel_spacer_7">8rem</string>
+  
+</resources>
