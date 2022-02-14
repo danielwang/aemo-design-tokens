@@ -140,9 +140,9 @@
       "prefix": "gel",
       "buildPath": "build/ios-swift/",
       "files": [{
-        "destination": "StyleDictionary.swift",
+        "destination": "tokens.swift",
         "format": "ios-swift/class.swift",
-        "className": "StyleDictionary",
+        "className": "tokens",
         "filter": {}
       }]
     },
@@ -150,9 +150,9 @@
       "transformGroup": "ios-swift-separate",
       "buildPath": "build/ios-swift/",
       "files": [{
-        "destination": "StyleDictionaryColor.swift",
+        "destination": "tokens.swift",
         "format": "ios-swift/enum.swift",
-        "className": "StyleDictionaryColor",
+        "className": "tokens",
         "filter": {
           "attributes": {
             "category": "color"

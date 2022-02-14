@@ -1,15 +1,15 @@
 
 //
-// StyleDictionary.swift
+// tokens.swift
 //
 
 // Do not edit directly
-// Generated on Sun, 13 Feb 2022 23:13:31 GMT
+// Generated on Mon, 14 Feb 2022 04:19:12 GMT
 
 
 import UIKit
 
-public class StyleDictionary {
+public class tokens {
     public static let gelColorFuelBattery = #b056bc
     public static let gelColorFuelBatteryLoad = #d77ee2
     public static let gelColorFuelBiomass = #a82140
