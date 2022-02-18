@@ -19,10 +19,6 @@
     "Book": {
       "value": "\"AvenirLT-Book\"",
       "type": "fontFamilies"
-    },
-    "Weight": {
-      "value": "normal",
-      "type": "fontWeights"
     }
   }
 }

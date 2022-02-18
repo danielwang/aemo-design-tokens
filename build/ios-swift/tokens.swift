@@ -4,12 +4,17 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 04:19:12 GMT
+// Generated on Fri, 18 Feb 2022 04:12:19 GMT
 
 
 import UIKit
 
 public class tokens {
+    public static let gelBreakpointsLg = 992px
+    public static let gelBreakpointsMd = 768px
+    public static let gelBreakpointsSm = 576px
+    public static let gelBreakpointsXl = 1200px
+    public static let gelBreakpointsXxl = 1600px
     public static let gelColorFuelBattery = #b056bc
     public static let gelColorFuelBatteryLoad = #d77ee2
     public static let gelColorFuelBiomass = #a82140
@@ -53,12 +58,15 @@ public class tokens {
     public static let gelColorTertiarySlate500 = #6b778c
     public static let gelColorTertiarySlate700 = #434b58
     public static let gelColorTertiaryWhite = #ffffff
+    public static let gelElevationHigh = 0 4px 4px 2px rgb(0 0 0 / 25%)
+    public static let gelElevationLow = 0 2px 4px 0 rgb(0 0 0 / 10%)
+    public static let gelElevationMedium = 0 4px 4px 0 rgb(0 0 0 / 18%)
+    public static let gelElevationNone = 0 0 0 0 rgb(0 0 0 / 0)
     public static let gelFontFamilyBlack = "AvenirLT-Black"
     public static let gelFontFamilyBook = "AvenirLT-Book"
     public static let gelFontFamilyHeavy = "AvenirLT-Heavy"
     public static let gelFontFamilyMedium = "AvenirLT-Medium"
     public static let gelFontFamilyRoman = "AvenirLT-Roman"
-    public static let gelFontFamilyWeight = normal
     public static let gelFontSizeHeading1 = 3.5rem
     public static let gelFontSizeHeading2 = 2rem
     public static let gelFontSizeHeading3 = 1.5rem
@@ -69,6 +77,19 @@ public class tokens {
     public static let gelFontSizeTextSm = 0.875rem
     public static let gelFontSizeTextXl = 1.25rem
     public static let gelFontSizeTextXs = 0.75rem
+    public static let gelLineHeightHeading = 1.25
+    public static let gelLineHeightReset = 1
+    public static let gelLineHeightText = 1.5
+    public static let gelOpacity0 = 0
+    public static let gelOpacity100 = 1
+    public static let gelOpacity25 = 0.25
+    public static let gelOpacity50 = 0.5
+    public static let gelOpacity75 = 0.75
+    public static let gelRadiusCircle = 50%
+    public static let gelRadiusLg = 0.75rem
+    public static let gelRadiusMd = 0.5rem
+    public static let gelRadiusNone = 0
+    public static let gelRadiusSm = 0.25rem
     public static let gelSpacer0 = 0
     public static let gelSpacer1 = 0.25rem
     public static let gelSpacer2 = 0.5rem

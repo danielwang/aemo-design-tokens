@@ -2,9 +2,14 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 14 Feb 2022 04:19:12 GMT
+  Generated on Fri, 18 Feb 2022 04:12:19 GMT
 -->
 <resources>
+  <string name="gel_breakpoints_sm">576px</string>
+  <string name="gel_breakpoints_md">768px</string>
+  <string name="gel_breakpoints_lg">992px</string>
+  <string name="gel_breakpoints_xl">1200px</string>
+  <string name="gel_breakpoints_xxl">1600px</string>
   <string name="gel_color_primary_purple_700">#360f3c</string>
   <string name="gel_color_primary_purple_600">#502252</string>
   <string name="gel_color_primary_purple_500">#702f73</string>
@@ -48,12 +53,15 @@
   <string name="gel_color_fuel_vpp_battery_load">#e2a8ea</string>
   <string name="gel_color_fuel_main">#a096a0</string>
   <string name="gel_color_fuel_load">#d4dadd</string>
+  <string name="gel_elevation_none">0 0 0 0 rgb(0 0 0 / 0)</string>
+  <string name="gel_elevation_low">0 2px 4px 0 rgb(0 0 0 / 10%)</string>
+  <string name="gel_elevation_medium">0 4px 4px 0 rgb(0 0 0 / 18%)</string>
+  <string name="gel_elevation_high">0 4px 4px 2px rgb(0 0 0 / 25%)</string>
   <string name="gel_font_family_black">"AvenirLT-Black"</string>
   <string name="gel_font_family_heavy">"AvenirLT-Heavy"</string>
   <string name="gel_font_family_medium">"AvenirLT-Medium"</string>
   <string name="gel_font_family_roman">"AvenirLT-Roman"</string>
   <string name="gel_font_family_book">"AvenirLT-Book"</string>
-  <string name="gel_font_family_weight">normal</string>
   <string name="gel_font_size_heading_1">3.5rem</string>
   <string name="gel_font_size_heading_2">2rem</string>
   <string name="gel_font_size_heading_3">1.5rem</string>
@@ -64,6 +72,19 @@
   <string name="gel_font_size_text_sm">0.875rem</string>
   <string name="gel_font_size_text_xl">1.25rem</string>
   <string name="gel_font_size_text_xs">0.75rem</string>
+  <string name="gel_line_height_heading">1.25</string>
+  <string name="gel_line_height_text">1.5</string>
+  <string name="gel_line_height_reset">1</string>
+  <string name="gel_opacity_0">0</string>
+  <string name="gel_opacity_25">0.25</string>
+  <string name="gel_opacity_50">0.5</string>
+  <string name="gel_opacity_75">0.75</string>
+  <string name="gel_opacity_100">1</string>
+  <string name="gel_radius_circle">50%</string>
+  <string name="gel_radius_lg">0.75rem</string>
+  <string name="gel_radius_md">0.5rem</string>
+  <string name="gel_radius_sm">0.25rem</string>
+  <string name="gel_radius_none">0</string>
   <string name="gel_spacer_0">0</string>
   <string name="gel_spacer_1">0.25rem</string>
   <string name="gel_spacer_2">0.5rem</string>

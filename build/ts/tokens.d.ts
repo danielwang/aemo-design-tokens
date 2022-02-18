@@ -1,8 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Mon, 14 Feb 2022 04:19:12 GMT
+ * Generated on Fri, 18 Feb 2022 04:12:19 GMT
  */
 
+export const BreakpointsSm : string;
+export const BreakpointsMd : string;
+export const BreakpointsLg : string;
+export const BreakpointsXl : string;
+export const BreakpointsXxl : string;
 export const ColorPrimaryPurple700 : string;
 export const ColorPrimaryPurple600 : string;
 export const ColorPrimaryPurple500 : string;
@@ -46,12 +51,15 @@ export const ColorFuelBatteryLoad : string;
 export const ColorFuelVppBatteryLoad : string;
 export const ColorFuelMain : string;
 export const ColorFuelLoad : string;
+export const ElevationNone : string;
+export const ElevationLow : string;
+export const ElevationMedium : string;
+export const ElevationHigh : string;
 export const FontFamilyBlack : string;
 export const FontFamilyHeavy : string;
 export const FontFamilyMedium : string;
 export const FontFamilyRoman : string;
 export const FontFamilyBook : string;
-export const FontFamilyWeight : string;
 export const FontSizeHeading1 : string;
 export const FontSizeHeading2 : string;
 export const FontSizeHeading3 : string;
@@ -62,6 +70,19 @@ export const FontSizeTextDefault : string;
 export const FontSizeTextSm : string;
 export const FontSizeTextXl : string;
 export const FontSizeTextXs : string;
+export const LineHeightHeading : string;
+export const LineHeightText : string;
+export const LineHeightReset : string;
+export const Opacity0 : string;
+export const Opacity25 : string;
+export const Opacity50 : string;
+export const Opacity75 : string;
+export const Opacity100 : string;
+export const RadiusCircle : string;
+export const RadiusLg : string;
+export const RadiusMd : string;
+export const RadiusSm : string;
+export const RadiusNone : string;
 export const Spacer0 : string;
 export const Spacer1 : string;
 export const Spacer2 : string;

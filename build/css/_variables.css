@@ -1,9 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Mon, 14 Feb 2022 04:19:12 GMT
+ * Generated on Fri, 18 Feb 2022 04:12:19 GMT
  */
 
 :root {
+  --gel-breakpoints-sm: 576px;
+  --gel-breakpoints-md: 768px;
+  --gel-breakpoints-lg: 992px;
+  --gel-breakpoints-xl: 1200px;
+  --gel-breakpoints-xxl: 1600px;
   --gel-color-primary-purple-700: #360f3c;
   --gel-color-primary-purple-600: #502252;
   --gel-color-primary-purple-500: #702f73;
@@ -47,12 +52,15 @@
   --gel-color-fuel-vpp-battery-load: #e2a8ea;
   --gel-color-fuel-main: #a096a0;
   --gel-color-fuel-load: #d4dadd;
+  --gel-elevation-none: 0 0 0 0 rgb(0 0 0 / 0);
+  --gel-elevation-low: 0 2px 4px 0 rgb(0 0 0 / 10%);
+  --gel-elevation-medium: 0 4px 4px 0 rgb(0 0 0 / 18%);
+  --gel-elevation-high: 0 4px 4px 2px rgb(0 0 0 / 25%);
   --gel-font-family-black: "AvenirLT-Black";
   --gel-font-family-heavy: "AvenirLT-Heavy";
   --gel-font-family-medium: "AvenirLT-Medium";
   --gel-font-family-roman: "AvenirLT-Roman";
   --gel-font-family-book: "AvenirLT-Book";
-  --gel-font-family-weight: normal;
   --gel-font-size-heading-1: 3.5rem;
   --gel-font-size-heading-2: 2rem;
   --gel-font-size-heading-3: 1.5rem;
@@ -63,6 +71,19 @@
   --gel-font-size-text-sm: 0.875rem;
   --gel-font-size-text-xl: 1.25rem;
   --gel-font-size-text-xs: 0.75rem;
+  --gel-line-height-heading: 1.25;
+  --gel-line-height-text: 1.5;
+  --gel-line-height-reset: 1;
+  --gel-opacity-0: 0;
+  --gel-opacity-25: 0.25;
+  --gel-opacity-50: 0.5;
+  --gel-opacity-75: 0.75;
+  --gel-opacity-100: 1;
+  --gel-radius-circle: 50%;
+  --gel-radius-lg: 0.75rem;
+  --gel-radius-md: 0.5rem;
+  --gel-radius-sm: 0.25rem;
+  --gel-radius-none: 0;
   --gel-spacer-0: 0;
   --gel-spacer-1: 0.25rem;
   --gel-spacer-2: 0.5rem;

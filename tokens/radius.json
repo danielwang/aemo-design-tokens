@@ -1,0 +1,24 @@
+{
+  "Radius": {
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "0.75rem",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "0.5rem",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "0.25rem",
+      "type": "borderRadius"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    }
+  }
+}

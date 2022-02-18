@@ -1,0 +1,16 @@
+{
+  "LineHeight": {
+    "heading": {
+      "value": "1.25",
+      "type": "lineHeights"
+    },
+    "text": {
+      "value": "1.5",
+      "type": "lineHeights"
+    },
+    "reset": {
+      "value": "1",
+      "type": "lineHeights"
+    }
+  }
+}

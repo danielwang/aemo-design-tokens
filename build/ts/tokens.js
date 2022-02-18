@@ -1,8 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Mon, 14 Feb 2022 04:19:12 GMT
+ * Generated on Fri, 18 Feb 2022 04:12:19 GMT
  */
 
+export const BreakpointsSm = "576px";
+export const BreakpointsMd = "768px";
+export const BreakpointsLg = "992px";
+export const BreakpointsXl = "1200px";
+export const BreakpointsXxl = "1600px";
 export const ColorPrimaryPurple700 = "#360f3c";
 export const ColorPrimaryPurple600 = "#502252";
 export const ColorPrimaryPurple500 = "#702f73";
@@ -46,12 +51,15 @@ export const ColorFuelBatteryLoad = "#d77ee2";
 export const ColorFuelVppBatteryLoad = "#e2a8ea";
 export const ColorFuelMain = "#a096a0";
 export const ColorFuelLoad = "#d4dadd";
+export const ElevationNone = "0 0 0 0 rgb(0 0 0 / 0)";
+export const ElevationLow = "0 2px 4px 0 rgb(0 0 0 / 10%)";
+export const ElevationMedium = "0 4px 4px 0 rgb(0 0 0 / 18%)";
+export const ElevationHigh = "0 4px 4px 2px rgb(0 0 0 / 25%)";
 export const FontFamilyBlack = "\"AvenirLT-Black\"";
 export const FontFamilyHeavy = "\"AvenirLT-Heavy\"";
 export const FontFamilyMedium = "\"AvenirLT-Medium\"";
 export const FontFamilyRoman = "\"AvenirLT-Roman\"";
 export const FontFamilyBook = "\"AvenirLT-Book\"";
-export const FontFamilyWeight = "normal";
 export const FontSizeHeading1 = "3.5rem";
 export const FontSizeHeading2 = "2rem";
 export const FontSizeHeading3 = "1.5rem";
@@ -62,6 +70,19 @@ export const FontSizeTextDefault = "1rem";
 export const FontSizeTextSm = "0.875rem";
 export const FontSizeTextXl = "1.25rem";
 export const FontSizeTextXs = "0.75rem";
+export const LineHeightHeading = "1.25";
+export const LineHeightText = "1.5";
+export const LineHeightReset = "1";
+export const Opacity0 = "0";
+export const Opacity25 = "0.25";
+export const Opacity50 = "0.5";
+export const Opacity75 = "0.75";
+export const Opacity100 = "1";
+export const RadiusCircle = "50%";
+export const RadiusLg = "0.75rem";
+export const RadiusMd = "0.5rem";
+export const RadiusSm = "0.25rem";
+export const RadiusNone = "0";
 export const Spacer0 = "0";
 export const Spacer1 = "0.25rem";
 export const Spacer2 = "0.5rem";
