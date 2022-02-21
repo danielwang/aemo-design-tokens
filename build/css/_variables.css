@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Feb 2022 04:12:19 GMT
+ * Generated on Mon, 21 Feb 2022 05:50:14 GMT
  */
 
 :root {
@@ -52,6 +52,9 @@
   --gel-color-fuel-vpp-battery-load: #e2a8ea;
   --gel-color-fuel-main: #a096a0;
   --gel-color-fuel-load: #d4dadd;
+  --gel-duration-slow: .6s;
+  --gel-duration-medium: .3s;
+  --gel-duration-fast: .15s;
   --gel-elevation-none: 0 0 0 0 rgb(0 0 0 / 0);
   --gel-elevation-low: 0 2px 4px 0 rgb(0 0 0 / 10%);
   --gel-elevation-medium: 0 4px 4px 0 rgb(0 0 0 / 18%);
@@ -74,6 +77,8 @@
   --gel-line-height-heading: 1.25;
   --gel-line-height-text: 1.5;
   --gel-line-height-reset: 1;
+  --gel-motion-ease-in: cubic-bezier(.4, 0, .7, .2);
+  --gel-motion-ease-out: cubic-bezier(0, 0, .2, 1);
   --gel-opacity-0: 0;
   --gel-opacity-25: 0.25;
   --gel-opacity-50: 0.5;
@@ -92,4 +97,12 @@
   --gel-spacer-5: 2rem;
   --gel-spacer-6: 4rem;
   --gel-spacer-7: 8rem;
+  --gel-zindex-layer-1: 1000;
+  --gel-zindex-layer-2: 1020;
+  --gel-zindex-layer-3: 1030;
+  --gel-zindex-layer-4: 1040;
+  --gel-zindex-layer-5: 1050;
+  --gel-zindex-layer-6: 1060;
+  --gel-zindex-layer-7: 1070;
+  --gel-zindex-layer-8: 1080;
 }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Feb 2022 04:12:19 GMT
+// Generated on Mon, 21 Feb 2022 05:50:14 GMT
 
 
 import UIKit
@@ -58,6 +58,9 @@ public class tokens {
     public static let gelColorTertiarySlate500 = #6b778c
     public static let gelColorTertiarySlate700 = #434b58
     public static let gelColorTertiaryWhite = #ffffff
+    public static let gelDurationFast = .15s
+    public static let gelDurationMedium = .3s
+    public static let gelDurationSlow = .6s
     public static let gelElevationHigh = 0 4px 4px 2px rgb(0 0 0 / 25%)
     public static let gelElevationLow = 0 2px 4px 0 rgb(0 0 0 / 10%)
     public static let gelElevationMedium = 0 4px 4px 0 rgb(0 0 0 / 18%)
@@ -80,6 +83,8 @@ public class tokens {
     public static let gelLineHeightHeading = 1.25
     public static let gelLineHeightReset = 1
     public static let gelLineHeightText = 1.5
+    public static let gelMotionEaseIn = cubic-bezier(.4, 0, .7, .2)
+    public static let gelMotionEaseOut = cubic-bezier(0, 0, .2, 1)
     public static let gelOpacity0 = 0
     public static let gelOpacity100 = 1
     public static let gelOpacity25 = 0.25
@@ -98,4 +103,12 @@ public class tokens {
     public static let gelSpacer5 = 2rem
     public static let gelSpacer6 = 4rem
     public static let gelSpacer7 = 8rem
+    public static let gelZindexLayer1 = 1000
+    public static let gelZindexLayer2 = 1020
+    public static let gelZindexLayer3 = 1030
+    public static let gelZindexLayer4 = 1040
+    public static let gelZindexLayer5 = 1050
+    public static let gelZindexLayer6 = 1060
+    public static let gelZindexLayer7 = 1070
+    public static let gelZindexLayer8 = 1080
 }

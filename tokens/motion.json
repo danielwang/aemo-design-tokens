@@ -1,0 +1,13 @@
+{
+  "Motion": {
+    "ease-in": {
+      "value": "cubic-bezier(.4, 0, .7, .2)",
+      "type": "other"
+    },
+    "ease-out": {
+      "value": "cubic-bezier(0, 0, .2, 1)",
+      "description": "",
+      "type": "other"
+    }
+  }
+}

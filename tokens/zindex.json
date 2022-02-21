@@ -1,0 +1,44 @@
+{
+  "zindex": {
+    "layer-1": {
+      "value": "1000",
+      "description": "dropdown",
+      "type": "other"
+    },
+    "layer-2": {
+      "value": "1020",
+      "description": "sticky",
+      "type": "other"
+    },
+    "layer-3": {
+      "value": "1030",
+      "description": "fixed, toast",
+      "type": "other"
+    },
+    "layer-4": {
+      "value": "1040",
+      "description": "modal backdrop",
+      "type": "other"
+    },
+    "layer-5": {
+      "value": "1050",
+      "description": "offcanvas",
+      "type": "other"
+    },
+    "layer-6": {
+      "value": "1060",
+      "description": "modal",
+      "type": "other"
+    },
+    "layer-7": {
+      "value": "1070",
+      "description": "popover",
+      "type": "other"
+    },
+    "layer-8": {
+      "value": "1080",
+      "description": "tooltip",
+      "type": "other"
+    }
+  }
+}

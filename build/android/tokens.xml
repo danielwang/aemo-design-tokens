@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 18 Feb 2022 04:12:19 GMT
+  Generated on Mon, 21 Feb 2022 05:50:14 GMT
 -->
 <resources>
   <string name="gel_breakpoints_sm">576px</string>
@@ -53,6 +53,9 @@
   <string name="gel_color_fuel_vpp_battery_load">#e2a8ea</string>
   <string name="gel_color_fuel_main">#a096a0</string>
   <string name="gel_color_fuel_load">#d4dadd</string>
+  <string name="gel_duration_slow">.6s</string>
+  <string name="gel_duration_medium">.3s</string>
+  <string name="gel_duration_fast">.15s</string>
   <string name="gel_elevation_none">0 0 0 0 rgb(0 0 0 / 0)</string>
   <string name="gel_elevation_low">0 2px 4px 0 rgb(0 0 0 / 10%)</string>
   <string name="gel_elevation_medium">0 4px 4px 0 rgb(0 0 0 / 18%)</string>
@@ -75,6 +78,8 @@
   <string name="gel_line_height_heading">1.25</string>
   <string name="gel_line_height_text">1.5</string>
   <string name="gel_line_height_reset">1</string>
+  <string name="gel_motion_ease_in">cubic-bezier(.4, 0, .7, .2)</string>
+  <string name="gel_motion_ease_out">cubic-bezier(0, 0, .2, 1)</string>
   <string name="gel_opacity_0">0</string>
   <string name="gel_opacity_25">0.25</string>
   <string name="gel_opacity_50">0.5</string>
@@ -93,5 +98,13 @@
   <string name="gel_spacer_5">2rem</string>
   <string name="gel_spacer_6">4rem</string>
   <string name="gel_spacer_7">8rem</string>
+  <string name="gel_zindex_layer_1">1000</string>
+  <string name="gel_zindex_layer_2">1020</string>
+  <string name="gel_zindex_layer_3">1030</string>
+  <string name="gel_zindex_layer_4">1040</string>
+  <string name="gel_zindex_layer_5">1050</string>
+  <string name="gel_zindex_layer_6">1060</string>
+  <string name="gel_zindex_layer_7">1070</string>
+  <string name="gel_zindex_layer_8">1080</string>
   
 </resources>

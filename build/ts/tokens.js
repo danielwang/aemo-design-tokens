@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Feb 2022 04:12:19 GMT
+ * Generated on Mon, 21 Feb 2022 05:50:14 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -51,6 +51,9 @@ export const ColorFuelBatteryLoad = "#d77ee2";
 export const ColorFuelVppBatteryLoad = "#e2a8ea";
 export const ColorFuelMain = "#a096a0";
 export const ColorFuelLoad = "#d4dadd";
+export const DurationSlow = ".6s";
+export const DurationMedium = ".3s";
+export const DurationFast = ".15s";
 export const ElevationNone = "0 0 0 0 rgb(0 0 0 / 0)";
 export const ElevationLow = "0 2px 4px 0 rgb(0 0 0 / 10%)";
 export const ElevationMedium = "0 4px 4px 0 rgb(0 0 0 / 18%)";
@@ -73,6 +76,8 @@ export const FontSizeTextXs = "0.75rem";
 export const LineHeightHeading = "1.25";
 export const LineHeightText = "1.5";
 export const LineHeightReset = "1";
+export const MotionEaseIn = "cubic-bezier(.4, 0, .7, .2)";
+export const MotionEaseOut = "cubic-bezier(0, 0, .2, 1)";
 export const Opacity0 = "0";
 export const Opacity25 = "0.25";
 export const Opacity50 = "0.5";
@@ -91,3 +96,11 @@ export const Spacer4 = "1.5rem";
 export const Spacer5 = "2rem";
 export const Spacer6 = "4rem";
 export const Spacer7 = "8rem";
+export const ZindexLayer1 = "1000";
+export const ZindexLayer2 = "1020";
+export const ZindexLayer3 = "1030";
+export const ZindexLayer4 = "1040";
+export const ZindexLayer5 = "1050";
+export const ZindexLayer6 = "1060";
+export const ZindexLayer7 = "1070";
+export const ZindexLayer8 = "1080";

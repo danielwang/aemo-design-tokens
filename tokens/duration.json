@@ -1,0 +1,17 @@
+{
+  "Duration": {
+    "slow": {
+      "value": ".6s",
+      "type": "other"
+    },
+    "medium": {
+      "value": ".3s",
+      "description": "",
+      "type": "other"
+    },
+    "fast": {
+      "value": ".15s",
+      "type": "other"
+    }
+  }
+}

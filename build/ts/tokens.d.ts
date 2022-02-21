@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Feb 2022 04:12:19 GMT
+ * Generated on Mon, 21 Feb 2022 05:50:14 GMT
  */
 
 export const BreakpointsSm : string;
@@ -51,6 +51,9 @@ export const ColorFuelBatteryLoad : string;
 export const ColorFuelVppBatteryLoad : string;
 export const ColorFuelMain : string;
 export const ColorFuelLoad : string;
+export const DurationSlow : string;
+export const DurationMedium : string;
+export const DurationFast : string;
 export const ElevationNone : string;
 export const ElevationLow : string;
 export const ElevationMedium : string;
@@ -73,6 +76,8 @@ export const FontSizeTextXs : string;
 export const LineHeightHeading : string;
 export const LineHeightText : string;
 export const LineHeightReset : string;
+export const MotionEaseIn : string;
+export const MotionEaseOut : string;
 export const Opacity0 : string;
 export const Opacity25 : string;
 export const Opacity50 : string;
@@ -91,3 +96,11 @@ export const Spacer4 : string;
 export const Spacer5 : string;
 export const Spacer6 : string;
 export const Spacer7 : string;
+export const ZindexLayer1 : string;
+export const ZindexLayer2 : string;
+export const ZindexLayer3 : string;
+export const ZindexLayer4 : string;
+export const ZindexLayer5 : string;
+export const ZindexLayer6 : string;
+export const ZindexLayer7 : string;
+export const ZindexLayer8 : string;
