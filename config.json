@@ -5,58 +5,44 @@
       "transformGroup": "scss",
       "prefix": "gel",
       "transforms": ["attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
-      "buildPath": "build/scss/",
+      "buildPath": "dist/",
       "files": [{
-        "destination": "_variables.scss",
+        "destination": "_tokens.scss",
         "format": "scss/variables"
       }]
     },
     "css": {
       "transformGroup": "css",
       "prefix": "gel",
-      "buildPath": "build/css/",
+      "buildPath": "dist/",
       "files": [{
-        "destination": "_variables.css",
+        "destination": "_tokens.css",
         "format": "css/variables"
       }]
     },
     "less": {
       "transformGroup": "less",
       "prefix": "gel",
-      "buildPath": "build/less/",
+      "buildPath": "dist/",
       "files": [{
-        "destination": "_variables.less",
+        "destination": "_tokens.less",
         "format": "less/variables"
       }]
     },
     "js": {
       "transformGroup": "js",
-      "buildPath": "build/js/",
+      "buildPath": "dist/",
       "files": [
         {
           "format": "javascript/es6",
-          "destination": "tojens.js"
-        }
-      ]
-    },
-    "ts": {
-      "transformGroup": "js",
-      "buildPath": "build/ts/",
-      "files": [
-        {
-          "format": "javascript/es6",
-          "destination": "tokens.js"
-        },
-        {
-          "format": "typescript/es6-declarations",
-          "destination": "tokens.d.ts"
+          "destination": "index.js"
         }
       ]
     },
     "android": {
       "transformGroup": "android",
       "prefix": "gel",
-      "buildPath": "build/android/",
+      "buildPath": "dist/",
       "files": [{
         "destination": "tokens.xml",
         "format": "android/resources"
@@ -65,7 +51,7 @@
     "compose": {
       "transformGroup": "compose",
       "prefix": "gel",
-      "buildPath": "build/compose/",
+      "buildPath": "dist/",
       "files": [{
         "destination": "StyleDictionaryColor.kt",
         "format": "compose/object",
@@ -92,7 +78,7 @@
     "ios": {
       "transformGroup": "ios",
       "prefix": "gel",
-      "buildPath": "build/ios/",
+      "buildPath": "dist/",
       "files": [{
         "destination": "StyleDictionaryColor.h",
         "format": "ios/colors.h",
@@ -138,7 +124,7 @@
     "ios-swift": {
       "transformGroup": "ios-swift",
       "prefix": "gel",
-      "buildPath": "build/ios-swift/",
+      "buildPath": "dist/",
       "files": [{
         "destination": "tokens.swift",
         "format": "ios-swift/class.swift",
@@ -148,7 +134,7 @@
     },
     "ios-swift-separate-enums": {
       "transformGroup": "ios-swift-separate",
-      "buildPath": "build/ios-swift/",
+      "buildPath": "dist/",
       "files": [{
         "destination": "tokens.swift",
         "format": "ios-swift/enum.swift",

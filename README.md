@@ -5,7 +5,7 @@ Design tokens for all platforms.
 ## About
 Design tokens are named and stored visual design traits, including colors, typography, and animation timings. Design Tokens are the heart of every Design System.
 
-![atomic design](./assets/token1.png)
+![atomic design](./assets/atomic-design.svg)
 
 ## Approach
 ![atomic design](./assets/token2.png)
@@ -16,7 +16,7 @@ npm i @danielwang/aemo-design-tokens
 ```
 ## Usage
 ```css
-@import "../../node_modules/@danielwang/aemo-design-tokens/build/css/_variables.css"; 
+@import "@danielwang/aemo-design-tokens/dist/_tokens.css"; 
 ```
 
 ## Publish NPM Package
