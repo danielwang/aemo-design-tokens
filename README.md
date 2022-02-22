@@ -1,5 +1,5 @@
 # AEMO Design Tokens
-Design tokens for all platforms.
+Design tokens for all platforms. Crafted and coded by [Daniel Wang](https://danielwang.github.io/bio/) Feb 2022
 
 
 ## About
