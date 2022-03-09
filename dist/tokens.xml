@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 22 Feb 2022 05:21:42 GMT
+  Generated on Wed, 09 Mar 2022 10:26:42 GMT
 -->
 <resources>
   <string name="gel_breakpoints_sm">576px</string>
@@ -10,9 +10,9 @@
   <string name="gel_breakpoints_lg">992px</string>
   <string name="gel_breakpoints_xl">1200px</string>
   <string name="gel_breakpoints_xxl">1600px</string>
-  <string name="gel_color_primary_purple_700">#360f3c</string>
+  <string name="gel_color_primary_purple_700">#3C1053</string>
   <string name="gel_color_primary_purple_600">#502252</string>
-  <string name="gel_color_primary_purple_500">#702f73</string>
+  <string name="gel_color_primary_purple_500">#6C3078</string>
   <string name="gel_color_primary_purple_400">#b056bc</string>
   <string name="gel_color_primary_purple_300">#cc8acf</string>
   <string name="gel_color_primary_purple_200">#e8cbea</string>

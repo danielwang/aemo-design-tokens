@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 22 Feb 2022 05:21:42 GMT
+// Generated on Wed, 09 Mar 2022 10:26:42 GMT
 
 
 import UIKit
@@ -35,9 +35,9 @@ public class tokens {
     public static let gelColorPrimaryPurple200 = #e8cbea
     public static let gelColorPrimaryPurple300 = #cc8acf
     public static let gelColorPrimaryPurple400 = #b056bc
-    public static let gelColorPrimaryPurple500 = #702f73
+    public static let gelColorPrimaryPurple500 = #6C3078
     public static let gelColorPrimaryPurple600 = #502252
-    public static let gelColorPrimaryPurple700 = #360f3c
+    public static let gelColorPrimaryPurple700 = #3C1053
     public static let gelColorSecondaryAqua = #85cee2
     public static let gelColorSecondaryBlue100 = #f4fbfc
     public static let gelColorSecondaryBlue500 = #5666bc

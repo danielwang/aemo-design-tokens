@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 22 Feb 2022 05:21:42 GMT
+ * Generated on Wed, 09 Mar 2022 10:26:42 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -8,9 +8,9 @@ export const BreakpointsMd = "768px";
 export const BreakpointsLg = "992px";
 export const BreakpointsXl = "1200px";
 export const BreakpointsXxl = "1600px";
-export const ColorPrimaryPurple700 = "#360f3c";
+export const ColorPrimaryPurple700 = "#3C1053";
 export const ColorPrimaryPurple600 = "#502252";
-export const ColorPrimaryPurple500 = "#702f73";
+export const ColorPrimaryPurple500 = "#6C3078";
 export const ColorPrimaryPurple400 = "#b056bc";
 export const ColorPrimaryPurple300 = "#cc8acf";
 export const ColorPrimaryPurple200 = "#e8cbea";
