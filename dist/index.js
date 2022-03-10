@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 09 Mar 2022 10:26:42 GMT
+ * Generated on Thu, 10 Mar 2022 04:52:38 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -54,10 +54,10 @@ export const ColorFuelLoad = "#d4dadd";
 export const DurationSlow = ".6s";
 export const DurationMedium = ".3s";
 export const DurationFast = ".15s";
-export const ElevationNone = "0 0 0 0 rgb(0 0 0 / 0)";
-export const ElevationLow = "0 2px 4px 0 rgb(0 0 0 / 10%)";
-export const ElevationMedium = "0 4px 4px 0 rgb(0 0 0 / 18%)";
-export const ElevationHigh = "0 4px 4px 2px rgb(0 0 0 / 25%)";
+export const ElevationNone = "0 0 0 0 rgba(0, 0, 0, 0)";
+export const ElevationLow = "0 2px 4px 0 rgba(0, 0, 0, 10%)";
+export const ElevationMedium = "0 4px 4px 0 rgba(0, 0, 0, 18%)";
+export const ElevationHigh = "0 4px 4px 2px rgba(0, 0, 0, 25%)";
 export const FontFamilyBlack = "\"AvenirLT-Black\"";
 export const FontFamilyHeavy = "\"AvenirLT-Heavy\"";
 export const FontFamilyMedium = "\"AvenirLT-Medium\"";

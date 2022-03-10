@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 09 Mar 2022 10:26:42 GMT
+// Generated on Thu, 10 Mar 2022 04:52:38 GMT
 
 
 import UIKit
@@ -61,10 +61,10 @@ public class tokens {
     public static let gelDurationFast = .15s
     public static let gelDurationMedium = .3s
     public static let gelDurationSlow = .6s
-    public static let gelElevationHigh = 0 4px 4px 2px rgb(0 0 0 / 25%)
-    public static let gelElevationLow = 0 2px 4px 0 rgb(0 0 0 / 10%)
-    public static let gelElevationMedium = 0 4px 4px 0 rgb(0 0 0 / 18%)
-    public static let gelElevationNone = 0 0 0 0 rgb(0 0 0 / 0)
+    public static let gelElevationHigh = 0 4px 4px 2px rgba(0, 0, 0, 25%)
+    public static let gelElevationLow = 0 2px 4px 0 rgba(0, 0, 0, 10%)
+    public static let gelElevationMedium = 0 4px 4px 0 rgba(0, 0, 0, 18%)
+    public static let gelElevationNone = 0 0 0 0 rgba(0, 0, 0, 0)
     public static let gelFontFamilyBlack = "AvenirLT-Black"
     public static let gelFontFamilyBook = "AvenirLT-Book"
     public static let gelFontFamilyHeavy = "AvenirLT-Heavy"
