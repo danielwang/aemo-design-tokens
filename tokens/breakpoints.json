@@ -19,6 +19,10 @@
     "xxl": {
       "value": "1600px",
       "type": "breakpoints"
+    },
+    "xxxl": {
+      "value": "2560px",
+      "type": "breakpoints"
     }
   }
 }
