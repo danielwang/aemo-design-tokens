@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 10 Mar 2022 04:52:38 GMT
+ * Generated on Mon, 10 Oct 2022 03:07:47 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -8,6 +8,7 @@ export const BreakpointsMd = "768px";
 export const BreakpointsLg = "992px";
 export const BreakpointsXl = "1200px";
 export const BreakpointsXxl = "1600px";
+export const BreakpointsXxxl = "2560px";
 export const ColorPrimaryPurple700 = "#3C1053";
 export const ColorPrimaryPurple600 = "#502252";
 export const ColorPrimaryPurple500 = "#6C3078";

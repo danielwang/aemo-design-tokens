@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Mar 2022 04:52:38 GMT
+// Generated on Mon, 10 Oct 2022 03:07:47 GMT
 
 
 import UIKit
@@ -15,6 +15,7 @@ public class tokens {
     public static let gelBreakpointsSm = 576px
     public static let gelBreakpointsXl = 1200px
     public static let gelBreakpointsXxl = 1600px
+    public static let gelBreakpointsXxxl = 2560px
     public static let gelColorFuelBattery = #b056bc
     public static let gelColorFuelBatteryLoad = #d77ee2
     public static let gelColorFuelBiomass = #a82140
