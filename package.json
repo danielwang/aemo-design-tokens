@@ -1,6 +1,6 @@
 {
     "name": "@danielwang/aemo-design-tokens",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -20,6 +20,6 @@
       "style-dictionary": "^3.1.0"
     },
     "publishConfig": {
-        "registry":"https://npm.pkg.github.com"
+        "registry":"https://npm.pkg.github.com/danielwang"
     }
   }
