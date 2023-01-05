@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 05 Jan 2023 00:06:54 GMT
+// Generated on Mon, 10 Oct 2022 23:20:29 GMT
 
 
 import UIKit
@@ -46,7 +46,7 @@ public class tokens {
     public static let gelColorSecondaryGreen100 = #ecf7e3
     public static let gelColorSecondaryGreen500 = #467822
     public static let gelColorSecondaryOrange100 = #fff4ec
-    public static let gelColorSecondaryOrange500 = #da2901
+    public static let gelColorSecondaryOrange500 = #fe7355
     public static let gelColorSecondaryRed100 = #feefef
     public static let gelColorSecondaryRed500 = #db3259
     public static let gelColorSecondaryTeal = #34b9b3

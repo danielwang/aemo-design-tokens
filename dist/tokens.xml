@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 05 Jan 2023 00:06:54 GMT
+  Generated on Mon, 10 Oct 2022 23:20:29 GMT
 -->
 <resources>
   <string name="gel_breakpoints_sm">576px</string>
@@ -24,7 +24,7 @@
   <string name="gel_color_secondary_green_100">#ecf7e3</string>
   <string name="gel_color_secondary_blue_500">#5666bc</string>
   <string name="gel_color_secondary_blue_100">#f4fbfc</string>
-  <string name="gel_color_secondary_orange_500">#da2901</string>
+  <string name="gel_color_secondary_orange_500">#fe7355</string>
   <string name="gel_color_secondary_orange_100">#fff4ec</string>
   <string name="gel_color_secondary_yellow">#ffd565</string>
   <string name="gel_color_secondary_aqua">#85cee2</string>
