@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 10 Oct 2022 23:20:29 GMT
+ * Generated on Thu, 05 Jan 2023 00:39:04 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -22,7 +22,7 @@ export const ColorSecondaryGreen500 = "#467822";
 export const ColorSecondaryGreen100 = "#ecf7e3";
 export const ColorSecondaryBlue500 = "#5666bc";
 export const ColorSecondaryBlue100 = "#f4fbfc";
-export const ColorSecondaryOrange500 = "#fe7355";
+export const ColorSecondaryOrange500 = "#da2901";
 export const ColorSecondaryOrange100 = "#fff4ec";
 export const ColorSecondaryYellow = "#ffd565";
 export const ColorSecondaryAqua = "#85cee2";
