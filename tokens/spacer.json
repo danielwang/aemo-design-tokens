@@ -25,11 +25,11 @@
       "type": "spacing"
     },
     "6": {
-      "value": "4rem",
+      "value": "3rem",
       "type": "spacing"
     },
     "7": {
-      "value": "8rem",
+      "value": "4rem",
       "type": "spacing"
     }
   }
