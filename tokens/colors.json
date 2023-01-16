@@ -2,7 +2,7 @@
   "Color": {
     "Primary": {
       "Purple - 700": {
-        "value": "#3C1053",
+        "value": "#360F3C",
         "type": "color"
       },
       "Purple - 600": {
@@ -10,7 +10,7 @@
         "type": "color"
       },
       "Purple - 500": {
-        "value": "#6C3078",
+        "value": "#702F73",
         "type": "color"
       },
       "Purple - 400": {
@@ -31,35 +31,35 @@
       }
     },
     "Secondary": {
-      "Red 500": {
+      "Red - 500": {
         "value": "#db3259",
         "type": "color"
       },
-      "Red 100": {
+      "Red - 100": {
         "value": "#feefef",
         "type": "color"
       },
-      "Green 500": {
+      "Green - 500": {
         "value": "#467822",
         "type": "color"
       },
-      "Green 100": {
+      "Green - 100": {
         "value": "#ecf7e3",
         "type": "color"
       },
-      "Blue 500": {
+      "Blue - 500": {
         "value": "#5666bc",
         "type": "color"
       },
-      "Blue 100": {
+      "Blue - 100": {
         "value": "#f4fbfc",
         "type": "color"
       },
-      "Orange 500": {
+      "Orange - 500": {
         "value": "#da2901",
         "type": "color"
       },
-      "Orange 100": {
+      "Orange - 100": {
         "value": "#fff4ec",
         "type": "color"
       },
@@ -82,7 +82,7 @@
     },
     "Tertiary": {
       "Black": {
-        "value": "#000000",
+        "value": "#333333",
         "type": "color"
       },
       "Slate - 700": {
@@ -93,13 +93,21 @@
         "value": "#6b778c",
         "type": "color"
       },
-      "Slate - 300": {
+      "Slate - 400": {
         "value": "#9ea6b5",
+        "type": "color"
+      },
+      "Slate - 300": {
+        "value": "#d2d6dd",
         "type": "color",
         "description": "Border"
       },
+      "Slate - 200": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
       "Slate - 100": {
-        "value": "#d2d6dd",
+        "value": "#fafafa",
         "type": "color",
         "description": "Disable"
       },
