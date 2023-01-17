@@ -19,6 +19,14 @@
     "Book": {
       "value": "\"AvenirLT-Book\"",
       "type": "fontFamilies"
+    },
+    "Fallback": {
+      "value": "\"Trebuchet MS\"",
+      "type": "fontFamilies"
+    },
+    "Monospace": {
+      "value": "\"Courier\"",
+      "type": "fontFamilies"
     }
   }
 }
