@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 05 Jan 2023 00:39:04 GMT
+// Generated on Tue, 17 Jan 2023 04:08:10 GMT
 
 
 import UIKit
@@ -36,9 +36,9 @@ public class tokens {
     public static let gelColorPrimaryPurple200 = #e8cbea
     public static let gelColorPrimaryPurple300 = #cc8acf
     public static let gelColorPrimaryPurple400 = #b056bc
-    public static let gelColorPrimaryPurple500 = #6C3078
+    public static let gelColorPrimaryPurple500 = #702F73
     public static let gelColorPrimaryPurple600 = #502252
-    public static let gelColorPrimaryPurple700 = #3C1053
+    public static let gelColorPrimaryPurple700 = #360F3C
     public static let gelColorSecondaryAqua = #85cee2
     public static let gelColorSecondaryBlue100 = #f4fbfc
     public static let gelColorSecondaryBlue500 = #5666bc
@@ -51,10 +51,12 @@ public class tokens {
     public static let gelColorSecondaryRed500 = #db3259
     public static let gelColorSecondaryTeal = #34b9b3
     public static let gelColorSecondaryYellow = #ffd565
-    public static let gelColorTertiaryBlack = #000000
+    public static let gelColorTertiaryBlack = #333333
     public static let gelColorTertiaryLink = #3379bf
-    public static let gelColorTertiarySlate100 = #d2d6dd
-    public static let gelColorTertiarySlate300 = #9ea6b5
+    public static let gelColorTertiarySlate100 = #fafafa
+    public static let gelColorTertiarySlate200 = #e6e6e6
+    public static let gelColorTertiarySlate300 = #d2d6dd
+    public static let gelColorTertiarySlate400 = #9ea6b5
     public static let gelColorTertiarySlate50 = #e7edf9
     public static let gelColorTertiarySlate500 = #6b778c
     public static let gelColorTertiarySlate700 = #434b58
@@ -62,14 +64,16 @@ public class tokens {
     public static let gelDurationFast = .15s
     public static let gelDurationMedium = .3s
     public static let gelDurationSlow = .6s
-    public static let gelElevationHigh = 0 4px 4px 2px rgba(0, 0, 0, 25%)
-    public static let gelElevationLow = 0 2px 4px 0 rgba(0, 0, 0, 10%)
-    public static let gelElevationMedium = 0 4px 4px 0 rgba(0, 0, 0, 18%)
+    public static let gelElevationHigh = 0 4px 4px 0 rgba(0, 0, 0, 25%), 0 3px 10px 0 rgba(0, 0, 0, 12%)
+    public static let gelElevationLow = 0 1px 10px 0 rgba(0, 0, 0, 12%), 0 2px 4px 0 rgba(0, 0, 0, 10%)
+    public static let gelElevationMedium = 0 2px 10px 0 rgba(0, 0, 0, 12%), 0 4px 4px 0 rgba(0, 0, 0, 18%)
     public static let gelElevationNone = 0 0 0 0 rgba(0, 0, 0, 0)
     public static let gelFontFamilyBlack = "AvenirLT-Black"
     public static let gelFontFamilyBook = "AvenirLT-Book"
+    public static let gelFontFamilyFallback = "Trebuchet MS"
     public static let gelFontFamilyHeavy = "AvenirLT-Heavy"
     public static let gelFontFamilyMedium = "AvenirLT-Medium"
+    public static let gelFontFamilyMonospace = "Courier"
     public static let gelFontFamilyRoman = "AvenirLT-Roman"
     public static let gelFontSizeHeading1 = 3.5rem
     public static let gelFontSizeHeading2 = 2rem
@@ -102,8 +106,8 @@ public class tokens {
     public static let gelSpacer3 = 1rem
     public static let gelSpacer4 = 1.5rem
     public static let gelSpacer5 = 2rem
-    public static let gelSpacer6 = 4rem
-    public static let gelSpacer7 = 8rem
+    public static let gelSpacer6 = 3rem
+    public static let gelSpacer7 = 4rem
     public static let gelZindexLayer1 = 1000
     public static let gelZindexLayer2 = 1020
     public static let gelZindexLayer3 = 1030

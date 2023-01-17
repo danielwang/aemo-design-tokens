@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 05 Jan 2023 00:39:04 GMT
+  Generated on Tue, 17 Jan 2023 04:08:10 GMT
 -->
 <resources>
   <string name="gel_breakpoints_sm">576px</string>
@@ -11,9 +11,9 @@
   <string name="gel_breakpoints_xl">1200px</string>
   <string name="gel_breakpoints_xxl">1600px</string>
   <string name="gel_breakpoints_xxxl">2560px</string>
-  <string name="gel_color_primary_purple_700">#3C1053</string>
+  <string name="gel_color_primary_purple_700">#360F3C</string>
   <string name="gel_color_primary_purple_600">#502252</string>
-  <string name="gel_color_primary_purple_500">#6C3078</string>
+  <string name="gel_color_primary_purple_500">#702F73</string>
   <string name="gel_color_primary_purple_400">#b056bc</string>
   <string name="gel_color_primary_purple_300">#cc8acf</string>
   <string name="gel_color_primary_purple_200">#e8cbea</string>
@@ -30,11 +30,13 @@
   <string name="gel_color_secondary_aqua">#85cee2</string>
   <string name="gel_color_secondary_blue_violet">#777da7</string>
   <string name="gel_color_secondary_teal">#34b9b3</string>
-  <string name="gel_color_tertiary_black">#000000</string>
+  <string name="gel_color_tertiary_black">#333333</string>
   <string name="gel_color_tertiary_slate_700">#434b58</string>
   <string name="gel_color_tertiary_slate_500">#6b778c</string>
-  <string name="gel_color_tertiary_slate_300">#9ea6b5</string>
-  <string name="gel_color_tertiary_slate_100">#d2d6dd</string>
+  <string name="gel_color_tertiary_slate_400">#9ea6b5</string>
+  <string name="gel_color_tertiary_slate_300">#d2d6dd</string>
+  <string name="gel_color_tertiary_slate_200">#e6e6e6</string>
+  <string name="gel_color_tertiary_slate_100">#fafafa</string>
   <string name="gel_color_tertiary_slate_50">#e7edf9</string>
   <string name="gel_color_tertiary_link">#3379bf</string>
   <string name="gel_color_tertiary_white">#ffffff</string>
@@ -58,14 +60,16 @@
   <string name="gel_duration_medium">.3s</string>
   <string name="gel_duration_fast">.15s</string>
   <string name="gel_elevation_none">0 0 0 0 rgba(0, 0, 0, 0)</string>
-  <string name="gel_elevation_low">0 2px 4px 0 rgba(0, 0, 0, 10%)</string>
-  <string name="gel_elevation_medium">0 4px 4px 0 rgba(0, 0, 0, 18%)</string>
-  <string name="gel_elevation_high">0 4px 4px 2px rgba(0, 0, 0, 25%)</string>
+  <string name="gel_elevation_low">0 1px 10px 0 rgba(0, 0, 0, 12%), 0 2px 4px 0 rgba(0, 0, 0, 10%)</string>
+  <string name="gel_elevation_medium">0 2px 10px 0 rgba(0, 0, 0, 12%), 0 4px 4px 0 rgba(0, 0, 0, 18%)</string>
+  <string name="gel_elevation_high">0 4px 4px 0 rgba(0, 0, 0, 25%), 0 3px 10px 0 rgba(0, 0, 0, 12%)</string>
   <string name="gel_font_family_black">"AvenirLT-Black"</string>
   <string name="gel_font_family_heavy">"AvenirLT-Heavy"</string>
   <string name="gel_font_family_medium">"AvenirLT-Medium"</string>
   <string name="gel_font_family_roman">"AvenirLT-Roman"</string>
   <string name="gel_font_family_book">"AvenirLT-Book"</string>
+  <string name="gel_font_family_fallback">"Trebuchet MS"</string>
+  <string name="gel_font_family_monospace">"Courier"</string>
   <string name="gel_font_size_heading_1">3.5rem</string>
   <string name="gel_font_size_heading_2">2rem</string>
   <string name="gel_font_size_heading_3">1.5rem</string>
@@ -97,8 +101,8 @@
   <string name="gel_spacer_3">1rem</string>
   <string name="gel_spacer_4">1.5rem</string>
   <string name="gel_spacer_5">2rem</string>
-  <string name="gel_spacer_6">4rem</string>
-  <string name="gel_spacer_7">8rem</string>
+  <string name="gel_spacer_6">3rem</string>
+  <string name="gel_spacer_7">4rem</string>
   <string name="gel_zindex_layer_1">1000</string>
   <string name="gel_zindex_layer_2">1020</string>
   <string name="gel_zindex_layer_3">1030</string>

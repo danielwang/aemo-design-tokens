@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Jan 2023 00:39:04 GMT
+ * Generated on Tue, 17 Jan 2023 04:08:10 GMT
  */
 
 export const BreakpointsSm = "576px";
@@ -9,9 +9,9 @@ export const BreakpointsLg = "992px";
 export const BreakpointsXl = "1200px";
 export const BreakpointsXxl = "1600px";
 export const BreakpointsXxxl = "2560px";
-export const ColorPrimaryPurple700 = "#3C1053";
+export const ColorPrimaryPurple700 = "#360F3C";
 export const ColorPrimaryPurple600 = "#502252";
-export const ColorPrimaryPurple500 = "#6C3078";
+export const ColorPrimaryPurple500 = "#702F73";
 export const ColorPrimaryPurple400 = "#b056bc";
 export const ColorPrimaryPurple300 = "#cc8acf";
 export const ColorPrimaryPurple200 = "#e8cbea";
@@ -28,11 +28,13 @@ export const ColorSecondaryYellow = "#ffd565";
 export const ColorSecondaryAqua = "#85cee2";
 export const ColorSecondaryBlueViolet = "#777da7";
 export const ColorSecondaryTeal = "#34b9b3";
-export const ColorTertiaryBlack = "#000000";
+export const ColorTertiaryBlack = "#333333";
 export const ColorTertiarySlate700 = "#434b58";
 export const ColorTertiarySlate500 = "#6b778c";
-export const ColorTertiarySlate300 = "#9ea6b5";
-export const ColorTertiarySlate100 = "#d2d6dd";
+export const ColorTertiarySlate400 = "#9ea6b5";
+export const ColorTertiarySlate300 = "#d2d6dd";
+export const ColorTertiarySlate200 = "#e6e6e6";
+export const ColorTertiarySlate100 = "#fafafa";
 export const ColorTertiarySlate50 = "#e7edf9";
 export const ColorTertiaryLink = "#3379bf";
 export const ColorTertiaryWhite = "#ffffff";
@@ -56,14 +58,16 @@ export const DurationSlow = ".6s";
 export const DurationMedium = ".3s";
 export const DurationFast = ".15s";
 export const ElevationNone = "0 0 0 0 rgba(0, 0, 0, 0)";
-export const ElevationLow = "0 2px 4px 0 rgba(0, 0, 0, 10%)";
-export const ElevationMedium = "0 4px 4px 0 rgba(0, 0, 0, 18%)";
-export const ElevationHigh = "0 4px 4px 2px rgba(0, 0, 0, 25%)";
+export const ElevationLow = "0 1px 10px 0 rgba(0, 0, 0, 12%), 0 2px 4px 0 rgba(0, 0, 0, 10%)";
+export const ElevationMedium = "0 2px 10px 0 rgba(0, 0, 0, 12%), 0 4px 4px 0 rgba(0, 0, 0, 18%)";
+export const ElevationHigh = "0 4px 4px 0 rgba(0, 0, 0, 25%), 0 3px 10px 0 rgba(0, 0, 0, 12%)";
 export const FontFamilyBlack = "\"AvenirLT-Black\"";
 export const FontFamilyHeavy = "\"AvenirLT-Heavy\"";
 export const FontFamilyMedium = "\"AvenirLT-Medium\"";
 export const FontFamilyRoman = "\"AvenirLT-Roman\"";
 export const FontFamilyBook = "\"AvenirLT-Book\"";
+export const FontFamilyFallback = "\"Trebuchet MS\"";
+export const FontFamilyMonospace = "\"Courier\"";
 export const FontSizeHeading1 = "3.5rem";
 export const FontSizeHeading2 = "2rem";
 export const FontSizeHeading3 = "1.5rem";
@@ -95,8 +99,8 @@ export const Spacer2 = "0.5rem";
 export const Spacer3 = "1rem";
 export const Spacer4 = "1.5rem";
 export const Spacer5 = "2rem";
-export const Spacer6 = "4rem";
-export const Spacer7 = "8rem";
+export const Spacer6 = "3rem";
+export const Spacer7 = "4rem";
 export const ZindexLayer1 = "1000";
 export const ZindexLayer2 = "1020";
 export const ZindexLayer3 = "1030";
